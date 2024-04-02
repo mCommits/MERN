@@ -1,0 +1,8 @@
+Why initial file name is index?
+Difference between html5 and xhtml
+Difference between all target value
+why h4 to h6 are needed
+
+abbr
+q
+blockquote
